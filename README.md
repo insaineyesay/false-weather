@@ -1,4 +1,4 @@
-# Weather Service (False Ambiguity Task)
+# Weather Service
 
 This service exposes a single endpoint:
 
